@@ -1,6 +1,6 @@
 An python (with theano) based implementation of Paper "Neural sentence ordering".
 
-The data is available on http://nlp.fudan.edu.cn/data/.
+The data is available on https://drive.google.com/drive/folders/0B-mnK8kniGAiNVB6WTQ4bmdyamc.
 
 The sample of processed data could be found on https://drive.google.com/file/d/0B-mnK8kniGAiSWhaR3gyalJyQm8/view?usp=sharing. And users should put this *.gz file into ./data/ to run the code.
 This processed data is based only a toy way to organize data in order to make the code run.
